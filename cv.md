@@ -30,7 +30,6 @@ I also worked as a freelancer, where I designed printing and developed websites 
 * Adobe Photoshop
 * Adobe Illustrator
 * Figma
-* Tilda.cc
 
 ## Languages
 
